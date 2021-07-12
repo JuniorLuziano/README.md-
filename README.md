@@ -20,49 +20,15 @@ Esse projeto é uma aplicação de busca de bandas
 ![Modelo Conceitual]()
 
 # Tecnologias utilizadas
-## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
-## Front end
-- HTML / CSS / JS 
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
+
+Para este projeto, utilizou-se a biblioteca Frontend React .
+
 
 # Como executar o projeto
 
-(HTML5/5.1)
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
-
-## Front end web
-Pré-requisitos: npm / yarn
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
-```
+HTML5/5.1
+CSS3/4 
+Mobile first e layout responsivo
 
 # Autor
 Junior Luziano
