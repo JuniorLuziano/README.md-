@@ -5,7 +5,7 @@
 
 Esse projeto é uma aplicação de busca de bandas 
 
-É uma aplicação onde iremos buscar por um determinado artista ou banda para termos acesso aos vídeos do Youtube retornados pela busca e também os dados desta banda requisitados através da API do Ticketmaster.
+É uma aplicação onde vamos buscar por um determinado artista ou banda para termos acesso aos vídeos do Youtube retornados pela busca e também os dados desta banda requisitados através da API do Ticketmaster ou Youtube.
 
 
 ## Layout mobile
